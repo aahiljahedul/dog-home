@@ -1,0 +1,6 @@
+/* applying media queries*/
+@media (max-width:430px){
+    nav,a{
+        display: none;
+    }
+}
