@@ -4,6 +4,7 @@ module.exports = {
     theme: {
       extend: {
       backgroundImage: {
+        main:"url('/c1-assets/cat-big.png') "
          
       }
       },
